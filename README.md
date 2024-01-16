@@ -1,4 +1,4 @@
-# TallyBook
+# TallyBook/记账本项目
 This is a program,in which we use QT6 and some cpp.
 It has functions including record your bills and draw a pie for you.
 It is not a very challenging program,but as it is my first program in coding life.
